@@ -39,6 +39,7 @@ public class CanonRotation : MonoBehaviour
         }
         CalculateBarScale();
 
+
     }
     public void CalculateBarScale()
     {
